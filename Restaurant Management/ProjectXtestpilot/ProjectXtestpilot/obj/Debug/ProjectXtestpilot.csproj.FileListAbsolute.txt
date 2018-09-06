@@ -1,0 +1,39 @@
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\ProjectXtestpilot.exe
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\ProjectXtestpilot.pdb
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.csprojResolveAssemblyReference.cache
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Form1.resources
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Properties.Resources.resources
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.csproj.GenerateResource.Cache
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.exe
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.pdb
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Main.resources
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\ProjectXtestpilot.exe.config
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Signup.resources
+F:\Study\CSE 411 (Software Engineering & Informatin System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.MyProfile.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\ProjectXtestpilot.exe.config
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.exe
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.pdb
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\ProjectXtestpilot.exe
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\ProjectXtestpilot.pdb
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.csprojResolveAssemblyReference.cache
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Main.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.MyProfile.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Properties.Resources.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Signup.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.csproj.GenerateResource.Cache
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.DeleteProfile.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.UpdateProfile.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Food_Menu.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Order_Menu.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Order_Foodnew.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Stock_Record.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.Table_Reservation.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.SignIn.resources
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\Restaurant Management\ProjectXtestpilot\ProjectXtestpilot\bin\Debug\ProjectXtestpilot.exe.config
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\Restaurant Management\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.exe
+F:\Study\CSE 411 (Software Engineering & Information System Design)\Project X\Restaurant Management\ProjectXtestpilot\ProjectXtestpilot\obj\Debug\ProjectXtestpilot.pdb

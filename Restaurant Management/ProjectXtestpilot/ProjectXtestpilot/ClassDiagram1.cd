@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjectXtestpilot.DeleteProfile" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAIACAAJAAABACAAAAGAAQAACIFAAAAAkhAAIA=</HashCode>
+      <FileName>DeleteProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.DataAccessDeleteProfile" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeleteProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.Food_Menu" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFAAACBAAAAABAiABgACEiCAEQAAAAAACwBkAUA=</HashCode>
+      <FileName>Food_Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.DataAccessFood" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Food_Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.Main" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwSGACAgACAiAIgAQECQBAEiAQIAEAgAACEAAIBgAKA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.MyProfile" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACABAAAABACABACCAgQAECAAAAAAAghgAAA=</HashCode>
+      <FileName>MyProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.DataAccessMyProfile" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.Order_Foodnew" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>lzbfusBjovFi3K+q9rjTLSFmeHYROsN/52KPd5T5J8c=</HashCode>
+      <FileName>Order_Foodnew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.DataAccessOrderFoodnew" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Order_Foodnew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.Order_Menu" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAAAKAQABgAAASABgASIAAAEKAIAAIAAQAkIAA=</HashCode>
+      <FileName>Order_Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.DataAccessOrderFood" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Order_Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.Program" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.SignIn" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YBAAQAAAACACBAggAASKBAACABAAEAAEAAYEIABgAAA=</HashCode>
+      <FileName>SignIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.DataAccess" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SignIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.Signup" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>YBggAEAAASACBBAgBACKACECCAQAICYEAAgEIgFKAMA=</HashCode>
+      <FileName>Signup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.DataAccessSignup" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Signup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.Stock_Record" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAYYKBGAgAABAiABAEOMkAAAAAAAAIIC0DAEAA=</HashCode>
+      <FileName>Stock_Record.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.DataAccessStock" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stock_Record.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.Table_Reservation" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAgGEEAECAAAAIABACJAhADAIAAAAAgAFIACg0AAAA=</HashCode>
+      <FileName>Table_Reservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.DataAccessReservation" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Table_Reservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.UpdateProfile" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCEAAGIQASQAAACABACIAQkCDARAICaAIAgABoFCINA=</HashCode>
+      <FileName>UpdateProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.DataAccessUpdateProfile" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UpdateProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectXtestpilot.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
